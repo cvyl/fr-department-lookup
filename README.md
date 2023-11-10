@@ -3,7 +3,7 @@
 This is a simple web application that allows you to look up French department names by their respective 2- or 3-digit codes. It uses jQuery for frontend interaction and JavaScript to perform the department code lookup.
 
 ## How to Use
-### Click [here](https://mikkaatje.github.io/fr-department-lookup) for an online demo!
+### Click [here](https://dev.lgbt.sh/fr-department-lookup) for an online demo!
 
 1. Clone or download this repository to your local machine.
 
