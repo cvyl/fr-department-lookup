@@ -5,7 +5,7 @@ $(document).ready(function() {
         $('#btn').on('click', function() {
             var code = $('#txtValue').val();
             if (!/^\d{2,3}$/.test(code)) {
-                $('#display').text('Error: Please enter a 2-digit code');
+                $('#display').text('Error: Please enter a 2- to 3-digit code');
                 return;
             }
             var department = getDepartmentByCode(code, departments);
