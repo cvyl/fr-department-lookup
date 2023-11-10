@@ -1,6 +1,6 @@
 # French Department Code Lookup Web App
 
-This is a simple web application that allows you to look up French department names by their respective 2- or 3-digit codes. It uses jQuery for frontend interaction and JavaScript to perform the department code lookup.
+This is a simple web application that allows you to look up French department names by their respective 2-digit codes. It uses jQuery for frontend interaction and JavaScript to perform the department code lookup.
 
 ## How to Use
 ### Click [here](https://dev.lgbt.sh/fr-department-lookup) for an online demo!
@@ -17,7 +17,7 @@ This is a simple web application that allows you to look up French department na
 
 ## Features
 
-- Validates the input to ensure it's a 2- to 3-digit code.
+- Validates the input to ensure it's a 2-digit code.
 - Retrieves department data from a JSON file (`departements.json`).
 - Displays the department name if a valid code is entered.
 
